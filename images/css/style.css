@@ -1,0 +1,53 @@
+h2{color:brown;}
+
+h3{color:red;}
+
+
+		.header{
+        	min-height:10px;
+        	background-color:red;
+        	}
+
+
+     .wrapper{
+           	overflow:hidden;
+           }
+
+
+           .box{
+           	float:left;
+           	width:33.3%;
+           	min-height:150px;
+           }
+
+
+           .box1{
+           	background-color:pink;
+           }
+           .box2{
+           	background-color:yellow;
+           }
+           .box3{
+           	background-color:brown;
+           }
+
+
+
+
+     .footer{
+           	min-height:70px;
+           	background-color:teal;
+           }
+
+
+																		.myDiv {
+																		  border: 5px outset red;
+																		  background-color: lightblue;    
+																		  text-align: center;
+																		 
+
+
+
+
+      
+
